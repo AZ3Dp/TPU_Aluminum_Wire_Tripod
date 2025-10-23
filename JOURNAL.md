@@ -25,3 +25,9 @@ I have all of these supplies, so we should be ready to go!
 ![Screenshot 2025-10-23 at 2.22.13 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--f4f1f2e17f0178736378765e91ec9dbc6c2a7465/Screenshot%202025-10-23%20at%202.22.13%E2%80%AFPM.png)
 In this work session, I created the first version of the TPU leg. It is currently in a very basic form. Essentially, the TPU will form a sleeve around the Aluminum craft wire. I'm not sure if the TPU is too thick - we'll need to print it out to test it!  
 
+## 10/23/2025 4 PM - CAD brush up and slice + first print  
+
+[![image.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--6c3ab33f426cec8f827ccbfb7a95bdd532aaf4c8/image.jpg)](![image.jpg](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--5a0d5288ace2691a25da1b713e2775be2abf78ed/image.jpg)
+)
+Made some small changes to the CAD model: added m3 mounting holes for the soon-to-be tripod. Definitely a nice print. Printed with Prusa Slicer and factory Prusa i3 mk3s+. The TPU came out fine, but it is really stiff (walls need to be a bit thinner). In addition, the hole sagged, so it is very hard to fit a 5mm aluminum wire in. Will need to make the changes in the next iteration!  
+
