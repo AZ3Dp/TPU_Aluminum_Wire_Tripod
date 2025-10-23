@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 10/23/2025 - Inspiration and Research (and material acquisition)  
+## 10/23/2025 9 AM - Inspiration and Research (and material acquisition)  
 
 ![Screenshot 2025-10-23 at 9.32.09 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDc1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--ff1c591ee80d8c00f1057a806c8d19fe36b9dd62/Screenshot%202025-10-23%20at%209.32.09%E2%80%AFAM.png)
 I was scrolling through reddit and I came across an inspiring post where the OP used TPU and Aluminum wire. The OP created many cool projects like tripods, helping-hands, and other cool contraptions. The process incorporated pausing the print and embedding aluminum wire in the TPU print. I am thinking of expanding on this idea:
@@ -19,4 +19,9 @@ And I also researched and bought the materials:
 95A TPU (already had)
 5mm diameter aluminum craft wire
 I have all of these supplies, so we should be ready to go!  
+
+## 10/23/2025 2 PM - Created first TPU leg sleeve mockup CAD  
+
+![Screenshot 2025-10-23 at 2.22.13 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--f4f1f2e17f0178736378765e91ec9dbc6c2a7465/Screenshot%202025-10-23%20at%202.22.13%E2%80%AFPM.png)
+In this work session, I created the first version of the TPU leg. It is currently in a very basic form. Essentially, the TPU will form a sleeve around the Aluminum craft wire. I'm not sure if the TPU is too thick - we'll need to print it out to test it!  
 
