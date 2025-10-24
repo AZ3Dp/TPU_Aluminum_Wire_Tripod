@@ -31,3 +31,17 @@ In this work session, I created the first version of the TPU leg. It is currentl
 )
 Made some small changes to the CAD model: added m3 mounting holes for the soon-to-be tripod. Definitely a nice print. Printed with Prusa Slicer and factory Prusa i3 mk3s+. The TPU came out fine, but it is really stiff (walls need to be a bit thinner). In addition, the hole sagged, so it is very hard to fit a 5mm aluminum wire in. Will need to make the changes in the next iteration!  
 
+## 10/24/2025 - CAD Work  
+
+![Screenshot 2025-10-24 at 10.33.19 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTExNSwicHVyIjoiYmxvYl9pZCJ9fQ==--3ea3dbe514eaec2836ad96286e762eeb1500080e/Screenshot%202025-10-24%20at%2010.33.19%E2%80%AFAM.png)
+Made a plethora of updates in CAD
+New appearances: 
+
+- Created a mounting system that will use heat set inserts for a modular mount. I aim for this to be compatible with phones, cameras, GoPros etc.
+- The Tripod will use 3 legs (circular pattern)
+Model updates/revisions:
+
+- Added m5 mounting holes on the "ends" of the legs. This is for potentially mounting the tripod on aluminum extrusion.
+- Reduced Wall thickness of TPU sleeve
+- Added Chamfers and improved sagging by deleting circular overhangs.  
+
