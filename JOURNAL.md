@@ -45,3 +45,10 @@ Model updates/revisions:
 - Reduced Wall thickness of TPU sleeve
 - Added Chamfers and improved sagging by deleting circular overhangs.  
 
+## 10/25/2025 - CAD brush up and slice + first print  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQ5MywicHVyIjoiYmxvYl9pZCJ9fQ==--91eeb780be8a8b35299552508af44a18c866599a/image.jpg)
+
+![IMG_0375](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQ5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--85df2581535f37a81cb7a196b49d89e41b38f08b/IMG_0375.jpeg)
+Today, I 3D printed out the new iteration of the tripod leg made out of TPU. The thinner walls definitely helped with flexibility, but it feels really weak and flimsy. In addition, the aluminum wire (5mm diameter) is having trouble being fully inserted. Will need to improve on this design!  
+
