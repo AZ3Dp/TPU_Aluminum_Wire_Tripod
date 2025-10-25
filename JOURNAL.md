@@ -45,7 +45,7 @@ Model updates/revisions:
 - Reduced Wall thickness of TPU sleeve
 - Added Chamfers and improved sagging by deleting circular overhangs.  
 
-## 10/25/2025 - CAD brush up and slice + first print  
+## 10/25/2025 - CAD brush up and slice + second print  
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQ5MywicHVyIjoiYmxvYl9pZCJ9fQ==--91eeb780be8a8b35299552508af44a18c866599a/image.jpg)
 
