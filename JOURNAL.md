@@ -59,3 +59,8 @@ Today, I 3D printed out the new iteration of the tripod leg made out of TPU. The
 So a major problem with the previous design was the TPU being both inflexible and flimsy (this would be a tradeoff in a standard design). So, I added these cutouts along the TPU sleeve, which should in theory help with flexibility. This will also allow me to increase the wall thickness, without sacrificing flexibility. I also increased the size of the hole (increased tolerance), as well as optimized the model for 3D printing (horizantal bridges, instead of a circular bridge).
   
 
+## 10/26/2025 - CAD brush up and slice + third print  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTg3NywicHVyIjoiYmxvYl9pZCJ9fQ==--d24de3b14fb41dc0c5ff71bcc88793181cab6818/image.jpg)
+I 3D printed (sliced and printed with Prusa Slicer) the new leg sleeve design, and it’s safe to say that we are one step closer to the final product! The new sleeve is definitely stronger and more flexible than the previous iterations! The only downside I can think of is that the aluminum wire is partly exposed, which depending on your opinion, may be less aesthetically pleasing. I still wasn’t able to get the sleeve onto the wire - I’ll simply increase the tolerance in the next iteration. Super stoked!  
+
