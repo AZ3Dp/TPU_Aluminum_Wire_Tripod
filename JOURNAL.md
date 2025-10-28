@@ -64,3 +64,8 @@ So a major problem with the previous design was the TPU being both inflexible an
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTg3NywicHVyIjoiYmxvYl9pZCJ9fQ==--d24de3b14fb41dc0c5ff71bcc88793181cab6818/image.jpg)
 I 3D printed (sliced and printed with Prusa Slicer) the new leg sleeve design, and it’s safe to say that we are one step closer to the final product! The new sleeve is definitely stronger and more flexible than the previous iterations! The only downside I can think of is that the aluminum wire is partly exposed, which depending on your opinion, may be less aesthetically pleasing. I still wasn’t able to get the sleeve onto the wire - I’ll simply increase the tolerance in the next iteration. Super stoked!  
 
+## 10/27/2025 - 3D print failure :(  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEwMywicHVyIjoiYmxvYl9pZCJ9fQ==--6463cfedb0ed7f0764089734e0649c3460c45cb9/image.jpg)
+I made some revisions in CAD and sent it out to print in TPU. Nozzle clogged, probably due to bad filament. Only half of the model came out. I guess I’ll need to spend an hour or so fixing my printer :(  
+
