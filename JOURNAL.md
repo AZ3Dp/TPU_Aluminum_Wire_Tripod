@@ -69,3 +69,8 @@ I 3D printed (sliced and printed with Prusa Slicer) the new leg sleeve design, a
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEwMywicHVyIjoiYmxvYl9pZCJ9fQ==--6463cfedb0ed7f0764089734e0649c3460c45cb9/image.jpg)
 I made some revisions in CAD and sent it out to print in TPU. Nozzle clogged, probably due to bad filament. Only half of the model came out. I guess I’ll need to spend an hour or so fixing my printer :(  
 
+## 10/30/2025 - It finally works! TPU sleeves fit in alu-wire!  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--0e138e6da64d92d2c41f356b0f11fdcf4bf2498a/image.jpg)
+After a bunch of tweaking in CAD and slicer settings, I finally got the TPU leg sleeve to slide onto the Aluminum craft wire! Now, all I need to do is cut the wire into good lengths and make the camera mount, and we’lol have a final product!  
+
