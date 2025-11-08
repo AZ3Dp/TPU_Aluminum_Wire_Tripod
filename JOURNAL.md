@@ -79,9 +79,14 @@ After a bunch of tweaking in CAD and slicer settings, I finally got the TPU leg 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--63b7e248922709e1520e472121e984077b6f533e/image.jpg)
 This was definitely harder than I expected. I wasn’t able to cut the thick aluminum craft wires at first with scissors or flush cutters. I later used a heavy duty wire cutter, and that worked. The strategy is to cut in a circle (like a beaver gnawing away at a tree) until the wire breaks. This will make a clean cut (if you try to cut it all in one go, the cut will be untidy)  
 
-## 11/8/2025 - Created New Leg Base  
+## 11/8/2025 9:35 AM - Created New Leg Base  
 
 ![Screenshot 2025-11-08 at 9.32.23 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--1173705d944e4945c1dc5a82bd086d1a6db8f5bd/Screenshot%202025-11-08%20at%209.32.23%E2%80%AFAM.png)
 
 Today, I made a new leg mounting base that uses m3 nuts instead of headset inserts. This iteration is slightly simpler (and with better CAD practices) like using circular patterns instead of manually modeling each bore.  
+
+## 11/8/2025 9:50 AM - Used TinkerCAD to create phone mount  
+
+![Screenshot 2025-11-08 at 9.48.06 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--2c8ba3ca7f9688726b2cea073264a524d6a11377/Screenshot%202025-11-08%20at%209.48.06%E2%80%AFAM.png)
+I used TinkerCAD (I know, sounds weird since I am always using Fusion) to combine a phone mount and the tripod. TinkerCAD, off of personal experience, is a lot better at handling STLs and simple procedures. I was able to quickly combine my two models, and now it's time to print!  
 
