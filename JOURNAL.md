@@ -90,3 +90,9 @@ Today, I made a new leg mounting base that uses m3 nuts instead of headset inser
 ![Screenshot 2025-11-08 at 9.48.06 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--2c8ba3ca7f9688726b2cea073264a524d6a11377/Screenshot%202025-11-08%20at%209.48.06%E2%80%AFAM.png)
 I used TinkerCAD (I know, sounds weird since I am always using Fusion) to combine a phone mount and the tripod. TinkerCAD, off of personal experience, is a lot better at handling STLs and simple procedures. I was able to quickly combine my two models, and now it's time to print!  
 
+## 11/8/2025 8 PM - Manufacture and Assembly of first version  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTYzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--524c4ef77ca91b674b0517943bedc3e1e9c86c82/image.jpg)![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTYzMywicHVyIjoiYmxvYl9pZCJ9fQ==--230281e478c7bfbba686d55dee0b58282c107259/image.jpg)
+
+I was able to print out and assemble the tripod for the first time! Had to play around with slicer settings and assembly went decently smooth. Used m5 connectors to connect the phone clamp and the tripod. The legs are a bit loose, so I need to reduce the “slits” towards the top of the leg. Also, the aluminum wire slides around, which is annoying, but it still works.  
+
