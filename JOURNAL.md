@@ -96,3 +96,9 @@ I used TinkerCAD (I know, sounds weird since I am always using Fusion) to combin
 
 I was able to print out and assemble the tripod for the first time! Had to play around with slicer settings and assembly went decently smooth. Used m5 connectors to connect the phone clamp and the tripod. The legs are a bit loose, so I need to reduce the “slits” towards the top of the leg. Also, the aluminum wire slides around, which is annoying, but it still works.  
 
+## 11/9/2025 - Revising the Design  
+
+![Screenshot 2025-11-09 at 11.44.03 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTc4MywicHVyIjoiYmxvYl9pZCJ9fQ==--15841183dd74a19f60bc5ca5d005a9d25aa6d08e/Screenshot%202025-11-09%20at%2011.44.03%E2%80%AFAM.png)
+As I said in the last journal, the connection near the top of the leg was too weak (unexpected bending), so I removed some "slits" towards the top of the leg. This should prevent weird bending and improve general stability.
+  
+
