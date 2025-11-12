@@ -1,4 +1,5 @@
-# TPU X ALU Wire Tripod
+# FLEXPOD
+### TPU X ALU Wire Tripod
 Hello there! Thanks for stopping by!
 ## Introduction
 I am a maker, 3D printer, inventor, and creative film-maker! 
