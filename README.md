@@ -1,5 +1,7 @@
 # FLEXPOD
-### TPU X ALU Wire Tripod
+#### TPU X ALU Wire Tripod
+>By Aaron Zhan
+
 Hello there! Thanks for stopping by!
 ## Introduction
 I am a maker, 3D printer, inventor, and creative film-maker! 
@@ -19,3 +21,5 @@ the friction between the articulated links would gradually wear down. This would
 Well, there are variants of the gorilla pod where the legs are made out of 3 pieces of continuous metal that is flexible yet rigid
 This design seldom loses its strength and thius its effectiveness. 
 And with some inspiration from REddit, I decided to make the tripod.
+## Design
+So I had found a 3D printed Gorilla Pod design from My Mini Factory. It was honestly quite a clever design, taking great inspiration from the Original Gorilla Pid. It uses 3D printed segments in hard plastic (PLA, PERTG, or ABS) and used some TPU connection parts (
