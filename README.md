@@ -32,7 +32,32 @@ experiment with the different types of wire. The Reddit User's design uses a TPU
 way to accomplish the task, but it poses some problems that I identified: 1) The Aluminum Wire is not always straight and tidy, so embedding in the print may be
 hard to accomplish and 2) If you want to remove the aluminum wire or swap it out for some reason, you'll have to destroy the TPU print. Embedding in the middle of the print job
 is quite a hassle - bad for automation and user experience.
+<img width="1000" height="500" alt="Screenshot 2025-11-09 at 11 44 03 AM" src="https://github.com/user-attachments/assets/76faf82e-8b94-40f4-b4e7-42b0134304b7" />
+> The slits and 5mm hole enable a smooth experience when inserting and flexing the Aluminum Wire
+
 ## Design Innovation
 And that's how my design was inspired and improved upon. FlexPod features easy-to-use TPU legs where you simply slide in the Aluminum Craft Wire (5mm, and generous tolerances were added!). This removes the hassle of pausing a print, making the process a whole lot easier! In addition, the leg takes advantage of the Pythagorean Theorem to be oriented on the build plate - you can get a 300mm long TPU leg out of a 220x200mm build plate! Some future plans include making an even longer TPU sleeve - possible oriented in a spiral - for those that need extra long tripod legs. The TPU 3D printed sleeves feature a repeating "slit" pattern, which alleviates stress and enables the TPU to be more flexible (and comply with the bending Aluminum Wire). These slits also reduce friction, enhancing the assembly process. For mounting, I included a simple m5 screw that is secured from the underside of the tripod. I know that people may have different variations of screws available, so the .f3d and .step files are included! m3 screws are used to mount the legs onto the base. The simplicity of the design is good to note! As for the model, I created a phone clamp that was remixed from a popular (and in my opinion, the best) phone clamp: https://www.printables.com/model/25969-tripod-mobile-phone-clamp-v2
-###### lol a remix of a remix
+<img width="557" height="596" alt="Screenshot 2025-11-08 at 9 48 06 AM" src="https://github.com/user-attachments/assets/77e6dc70-84ae-44d2-9335-98e8fcc18b68" />
+> TinkerCAD is (sometimes) better than Fusion at _simple_ tasks!
 
+###### lol a remix of a remix
+So I simply took the base of that model, and combined it with the "base" of my Tripod in TinkerCAD (TinkerCAD is better at doing simple operations on STLs - you can do this in Slicer software as well).
+
+## Materials Needed
+I know there is a BOM, but this is probably more helpful
+- Aluminum Wire
+- m5 nuts and screws
+- m3 nuts and screws
+- TPU & PLA (or other rigid filament) for 3D printing
+
+## Assembly and Manufacturing
+FlexPod only has 5-7 printed parts in total (depending on how complicated the phone/camera/object mount is)
+- 3 Legs: 95A (what I used, but more flexible is fine) TPU filament, 0.2mm (or finer) layer height, 2 perimeters, 15% infill
+- Lower & Upper Base: PLA/ABS/PETG (rigid filament, PLA works fine), 0.2mm (or finer) layer height, 2 perimeters, 15% infill
+- Mount (for camera, phone, etc): Make this as strong/weak as you want (depends on the application! For my phone clamp, I just used the same settings as above)
+
+Assembly is pretty simple:
+1) Insert the Aluminum Wire into the TPU sleeves, and use wire cutters to slowly (twisting the wire cutters for each cut) sever the Aluminum Wire
+2) Prepare the bottom base: insert the m5 nut into the underside of the base. Screw in a m5 screw (I think m5x16 will do, depends on your application!) from the bottom
+3) Insert m3 nuts into their respective slots on the bottom base. Fasten each leg to the base
+4) Slide in a m5 nut into the Upper Base (or mount your subject onto the m5 screw!)
