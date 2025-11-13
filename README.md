@@ -61,3 +61,8 @@ Assembly is pretty simple:
 2) Prepare the bottom base: insert the m5 nut into the underside of the base. Screw in a m5 screw (I think m5x16 will do, depends on your application!) from the bottom
 3) Insert m3 nuts into their respective slots on the bottom base. Fasten each leg to the base
 4) Slide in a m5 nut into the Upper Base (or mount your subject onto the m5 screw!)
+
+##Final Product
+And that's it! Works decently well, but be careful of the Aluminum Wire sliding around a lot!
+![FlexPod](https://github.com/user-attachments/assets/4ab55020-e177-49e7-8927-8b7fe57a2cd8)
+
