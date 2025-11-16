@@ -65,4 +65,5 @@ Assembly is pretty simple:
 ##Final Product
 And that's it! Works decently well, but be careful of the Aluminum Wire sliding around a lot!
 ![FlexPod](https://github.com/user-attachments/assets/4ab55020-e177-49e7-8927-8b7fe57a2cd8)
-
+Access the project on Printables here: https://www.printables.com/model/1480173-flexpod-a-better-gorillapod-phone-tripod
+Youtube video: https://youtube.com/shorts/_ZZmN3UGOKQ?feature=share
